@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         initView();
         mTv.setText("git");
 
+
     }
 
     private void initView() {
